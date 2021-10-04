@@ -1,0 +1,6 @@
+zendeskUrl: https://company.zendesk.com/
+email: user@domain.tld
+apiToken: yourApiTokenHere
+monitoredQueueId: yourMonitoredQueueIdHere
+checkQueueCron: "*/5 * * * *"
+messagesBeforeCalling: 3

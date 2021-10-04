@@ -1,0 +1,6 @@
+accountSid: yourAccountSidHere
+authToken: yourAuthTokenHere
+fromNumber: "+17861234567"
+toNumber: "+17861234567"
+messageFormat: "Ticket $TICKET_ID has been new in the queue for $MINUTES_IN_QUEUE minutes."
+callFormat: "This is a reminder. Ticket $TICKET_ID has been new in the queue for $MINUTES_IN_QUEUE minutes"
